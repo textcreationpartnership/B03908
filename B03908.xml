@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joans victory over her fellow-servants. A young-man that with many maids does dwell, thought Joan the rest in beauty did excell; Mall was too coy, Jenny was too bold, Kate was too stale, and Nanny was a scold: that he dislikes them all, and would with none be pleas'd, but with his fair and dearest Joan. Tune of, My own sweet Nichol a cod.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1696?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03908</idno>
+            <idno type="STC">Wing J753</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[140]</idno>
+            <idno type="EEBO-CITATION">99887181</idno>
+            <idno type="PROQUEST">ocm99887181</idno>
+            <idno type="VID">181889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181889)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[140])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joans victory over her fellow-servants. A young-man that with many maids does dwell, thought Joan the rest in beauty did excell; Mall was too coy, Jenny was too bold, Kate was too stale, and Nanny was a scold: that he dislikes them all, and would with none be pleas'd, but with his fair and dearest Joan. Tune of, My own sweet Nichol a cod.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby, at the Golden-Ball, near the Hospital-gate, in West-smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1670-1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I've liv'd in this town these 5 years ..."</note>
+                  <note>Place and date of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181889:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>JOANS Victory Over her Fellow-Servants.</head>
+            <argument>
+               <l>
+                  <hi>A Young-man that with many Maids does dwell,</hi>
+               </l>
+               <l>
+                  <hi>Thought <hi>Joan</hi> the reſt in beauty did excell;</hi>
+               </l>
+               <l>
+                  <hi>Mall <hi>Was too coy,</hi> Jenny <hi>was too bold,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Kate <hi>was too ſtale, and</hi> Nanny <hi>was a ſcold:</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>That he diſlikes them all, and would with none</hi>
+               </l>
+               <l>
+                  <hi>Be pleas'd, but with his fair and deareſt <hi>Joan,</hi>
+                  </hi>
+               </l>
+            </argument>
+            <opener>Tune of, <hi>My own ſweet</hi> Nichol a Cod.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I'Ve liv'o in this Town theſe 5 Years,</l>
+               <l>but never the Laſs could find</l>
+               <l>That would prove ſo true a Lover,</l>
+               <l>as conſtant and as kind:</l>
+               <l>Now fortune has me befriended,</l>
+               <l>at laſt to give me one;</l>
+               <l>Whoſe true love I diſcover,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then here's a good heal Health to <hi>Joan.</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I once loved <hi>Kate</hi> and <hi>Jenny,</hi>
+               </l>
+               <l>and once I loved <hi>Mall;</hi>
+               </l>
+               <l>And then my love turned to <hi>Nancy,</hi>
+               </l>
+               <l>but now I diſlike them all:</l>
+               <l>For I have gotten a true love,</l>
+               <l>whom I affect alone;</l>
+               <l>'Tis ſhe beſt pleaſeth my fancy,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then here's a good health to <hi>Joan,</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>With <hi>Cate</hi> I'de a ſhort encounter,</l>
+               <l>becauſe ſhe was plaguy old,</l>
+               <l>Her Letchery was ſo haſty,</l>
+               <l>that my love ſoon grew cold:</l>
+               <l>She proffered me Figgs of the beſt ſort,</l>
+               <l>but I told her I'de have none,</l>
+               <l>Cauſe the ſtrenyth of her breath was ſo naſty</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but here's a good health to <hi>Joan,</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At length a wonderful kindneſs,</l>
+               <l>as poſſible may be thought,</l>
+               <l>Did paſs betwixt me and <hi>Jenny,</hi>
+               </l>
+               <l>bur this was her only fault;</l>
+               <l>She ſtradled ſo wide, and came on ſo faſt.</l>
+               <l>that ſhe made me cry out, be gone,</l>
+               <l>For I think the Devil is in you,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But then there was a ſecret Court there,</l>
+               <l>betwixt our <hi>Mall</hi> and I;</l>
+               <l>And ſhe of her love was ſo tender,</l>
+               <l>that I hated her Modeſty:</l>
+               <l>She was ſo much given to frowning,</l>
+               <l>and killing glances prone;</l>
+               <l>That on no terms ſhe'd ſurrender,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then here's a good health to <hi>Joan.</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At laſt I had a warm paſſion</l>
+               <l>for <hi>Nanny</hi> my dear heart;</l>
+               <l>But when ever her I courted,</l>
+               <l>ſhe was too brisk and ſmart:</l>
+               <l>She'd gotten a Tongue with a tang in't,</l>
+               <l>and a trick to her ſelf alone;</l>
+               <l>That ſhe kick'd like a Colt when we ſported</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then ſince i've gotten a ſweet-heart,</l>
+               <l>that is both loving and true;</l>
+               <l>All old Fiſh i'le defie,</l>
+               <l>and learn to deal with new:</l>
+               <l>For I hate to imbrace a Carcaſs</l>
+               <l>that's nothing but skin and bone;</l>
+               <l>And has never a whit of beauty,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Since <hi>Jenny</hi> then was ſo forward,</l>
+               <l>and impudent withal;</l>
+               <l>I thought it fit to leave her,</l>
+               <l>and my kindneſs to recall:</l>
+               <l>For I hate ſuch buxome Laſſes,</l>
+               <l>they'l Cuckold me ten to one;</l>
+               <l>'Twas policy then to deceive her,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Nor will I fix my heart on</l>
+               <l>thoſe Maids that are too coy;</l>
+               <l>For <hi>Moll</hi> ſhe was ſo ſquemiſh,</l>
+               <l>that ſhe my love did cloy:</l>
+               <l>Then give me the Laſs that is loving,</l>
+               <l>and not ſo ſcrupulous grown;</l>
+               <l>For that is the <hi>Laſs</hi> without blemiſh,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Nor i'le have no more of this ſcolding,</l>
+               <l>which will but end my days;</l>
+               <l>She is worſe then a ſmoaky Kitchin,</l>
+               <l>which always plagues your eyes.</l>
+               <l>Her tongues the worſt part about her,</l>
+               <l>for it is always prone</l>
+               <l>To chatting, and damming, and itching,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Now 'twould be a thing that's needleſs;</l>
+               <l>to tell how I dearly love</l>
+               <l>She that my heart has wounded,</l>
+               <l>and does my paſſion move:</l>
+               <l>She has none of thoſe damnable errors</l>
+               <l>to which moſt Maids are prone:</l>
+               <l>On her vertues my love is grounded,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>She's neither old nor mouldy,</l>
+               <l>ſhe's neither coy nor bold,</l>
+               <l>Nor has ſhe faults of <hi>Nancy,</hi>
+               </l>
+               <l>ſhe's neither Shrow nor Scold:</l>
+               <l>Then ſhe is the Maid that i'le marry,</l>
+               <l>ſhe has none of theſe faults of her own,</l>
+               <l>Therefore ſhe beſt pleaſeth my fancy,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>then here's a good health to <hi>Joan.</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the Gol<g ref="char:EOLhyphen"/>den-Ball, near the <hi>Hoſpital-gate,</hi> in <hi>Weſt-ſmithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
